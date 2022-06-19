@@ -232,7 +232,7 @@ export default function HomeScreen() {
                       color: theme.colors.neutral["900"],
                     }}
                   >
-                    Alura Cases
+                    Felipe Holanda - Dev Junior
                   </Text>
                   <Text
                     as="p"
@@ -252,7 +252,7 @@ export default function HomeScreen() {
                       marginTop: theme.space.x6,
                     }}
                   >
-                    Quer testar antes de todo mundo?
+                    Venha conferir mais sobre mim!
                   </Text>
                 </Box>
                 <Box
@@ -284,7 +284,7 @@ export default function HomeScreen() {
                         srOnly: true,
                       }}
                     >
-                      Email address
+                      Email Endereço
                     </Text>
                     <Input
                       id="email"
