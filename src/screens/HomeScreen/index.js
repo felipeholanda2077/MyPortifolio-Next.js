@@ -98,7 +98,7 @@ export default function HomeScreen() {
   return (
     <Box>
       <Head>
-        <title>Home - Alura Cases Campanha </title>
+        <title>Home - My Portifolio </title>
       </Head>
       <Box
         as="main"
@@ -232,7 +232,7 @@ export default function HomeScreen() {
                       color: theme.colors.neutral["900"],
                     }}
                   >
-                    Felipe Holanda - Dev Junior
+                    Felipe Holanda  Dev Junior
                   </Text>
                   <Text
                     as="p"
