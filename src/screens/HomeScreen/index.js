@@ -4,8 +4,8 @@ import Link from '../../components/Link'
 import { theme } from '../../theme/theme';
 import { Image, Box, Text, Icon, Input, Button } from '../../theme/components';
 
-const LOGO_ALURA_URL = '/images/alura-logo.svg';
-const SIDE_IMAGE_URL = '/images/alura-cases.png';
+const LOGO_ALURA_URL = '/images/Felipe.png';
+const SIDE_IMAGE_URL = '/images/Perfil.png';
 
 function SideImage() {
   return (
@@ -98,7 +98,7 @@ export default function HomeScreen() {
   return (
     <Box>
       <Head>
-        <title>Home - Alura Cases Campanha</title>
+        <title>Home - Alura Cases Campanha </title>
       </Head>
       <Box
         as="main"
@@ -232,7 +232,7 @@ export default function HomeScreen() {
                       color: theme.colors.neutral["900"],
                     }}
                   >
-                    Alura Cases
+                    Felipe Holanda - Dev Junior
                   </Text>
                   <Text
                     as="p"
@@ -252,7 +252,7 @@ export default function HomeScreen() {
                       marginTop: theme.space.x6,
                     }}
                   >
-                    Quer testar antes de todo mundo?
+                    Venha conferir mais sobre mim!
                   </Text>
                 </Box>
                 <Box
@@ -284,7 +284,7 @@ export default function HomeScreen() {
                         srOnly: true,
                       }}
                     >
-                      Email address
+                      Email Endereço
                     </Text>
                     <Input
                       id="email"
